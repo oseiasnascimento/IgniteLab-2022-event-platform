@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Feedback Widget" src=".github/preview.png" width="100%">
+  <img alt="Ignite Lab | REACTJS" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,7 +34,7 @@ Feedback Widget é um projeto widget que pode ser usado em aplicações web e mo
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iRgpd71FFiJvfmJHn0Uy1Y/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by birobirobiro :wave:
+Feito com ♥ by Oseias Saboia :wave:
