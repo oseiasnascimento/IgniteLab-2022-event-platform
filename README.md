@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Feedback Widget" src=".github/preview.png" width="100%">
+  <img alt="Ignite Lab | REACTJS" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
