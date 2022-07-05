@@ -1,6 +1,6 @@
 import { DefaultUi, Player, Youtube } from '@vime/react'
 import { gql, useQuery } from '@apollo/client';
-import { CaretRight, DiscordLogo, FileArrowDown, Image, Lightning } from 'phosphor-react'
+import { CaretRight, DiscordLogo, FileArrowDown, ImageSquare, Lightning } from 'phosphor-react'
 
 import '@vime/core/themes/default.css'
 
@@ -105,9 +105,9 @@ export function Video(props:VideoProps) {
             </a>
           </div>
         </div>
-        <div className="gap-8 mt-20 grid grid-cols-2">
-          <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
-            <div className="bg-green-700 h-full p-6 flex items-center">
+        <div className="gap-8 mt-20 grid grid-cols-2 ">
+          <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 border border-gray-500 hover:border-green-500 transition-colors ">
+            <div className="bg-green-700 h-full p-6 rounded flex items-center">
               <FileArrowDown size={40} />
             </div>
             <div className="py-6 leading-relaxed">
@@ -121,9 +121,9 @@ export function Video(props:VideoProps) {
             </div>
           </a>
 
-          <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
-            <div className="bg-green-700 h-full p-6 flex items-center">
-              <Image size={40} />
+          <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 border border-gray-500 hover:border-green-500 transition-colors">
+            <div className="bg-green-700 h-full p-6 rounded flex items-center">
+              <ImageSquare size={40} />
             </div>
             <div className="py-6 leading-relaxed">
               <strong className="text-2xl">Wallpapers exclusivos</strong>

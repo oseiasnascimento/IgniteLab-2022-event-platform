@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Feedback Widget é um projeto widget que pode ser usado em aplicações web e mobile para receber feedback de usuários.
+Event Plataform é uma plataforma de conteúdos em vídeo.
 
 ## 🔖 Layout
 
