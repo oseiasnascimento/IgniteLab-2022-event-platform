@@ -23,10 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
 - GraphQL
-- HTML
-- CSS
 - JavaScript
 - TypeScript
+- Tailwindcss
+- @apollo/client
+- Phosphor-React
+- HTML
+- CSS
 
 ## 💻 Projeto
 
